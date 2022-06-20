@@ -1,4 +1,5 @@
-# H1 Title
+# Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## H2 Title
 ### H3 Title
 #### H4 Title
